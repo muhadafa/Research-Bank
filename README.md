@@ -30,9 +30,9 @@ This repository is dual-licensed under:
 
 * Bio: Research enthusiast with a passion for data science and machine learning.
 * Email: muhadafamumini@yahoo.com
-* GitHub: (https://github.com/muhadafa)
-* LinkedIn: (https://www.linkedin.com/in/abdulmumini-musah-4bb914b6/ )
-* Twitter (now X):( https://x.com/muhadafa )
+* GitHub: https://github.com/muhadafa
+* LinkedIn: https://www.linkedin.com/in/abdulmumini-musah-4bb914b6/ 
+* Twitter (now X): https://x.com/muhadafa
 
 ## Acknowledgments
 Special thanks to:

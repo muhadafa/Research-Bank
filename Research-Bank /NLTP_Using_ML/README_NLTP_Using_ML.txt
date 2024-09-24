@@ -38,8 +38,9 @@ Files
 - presentation.pptx: Presentation slides
 
 
-License
-MIT License
+## License
+This repository licensed under:
+* [CC-BY License](LICENSE-CC-BY.txt) for documentation/research materials
 
 
 Contact

@@ -1,0 +1,3 @@
+##  MIT License
+-----------
+MIT License (open-source licenses): Simple and permissive, allowing others to freely use and modify your code.

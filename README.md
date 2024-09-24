@@ -4,7 +4,6 @@ A collection of research thesis, dissertations, and papers for personal referenc
 ## About this Repository
 This repository serves as a centralized hub for storing and organizing research materials, providing easy access to ideas, references, and resources.
 
-
 ## Repository Structure
 * `Thesis/`: Completed and ongoing thesis projects
 * `Dissertations/`: Completed and ongoing dissertation projects

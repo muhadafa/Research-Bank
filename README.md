@@ -40,7 +40,6 @@ Special thanks to:
 *Open-source license providers for making licensing easier
 
 
-
 ## Table of Contents
 * [Link to Thesis folder](./Thesis)
 * [Link to Dissertations folder](./Dissertations)
